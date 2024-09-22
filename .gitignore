@@ -1,0 +1,21 @@
+# PlatformIO specific
+.pio
+/.pioenvs
+/.vscode
+/.clangd
+/coverage
+/test_report.xml
+
+# macOS
+.DS_Store
+
+# Python
+*.pyc
+
+# Compiled files
+*.bin
+*.elf
+*.hex
+
+# Ignore credential file
+credential.h

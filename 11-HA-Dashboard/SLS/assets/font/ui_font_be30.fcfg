@@ -1,0 +1,16 @@
+{
+  "codename": "be30",
+  "ttf_path": "/assets/font/BebasNeue Bold.otf",
+  "bin_path": "/assets/font/ui_font_be30.bin",
+  "c_path": "/assets/font/ui_font_be30.c",
+  "cfg_path": "/assets/font/ui_font_be30.fcfg",
+  "size": 30,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

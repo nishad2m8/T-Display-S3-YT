@@ -1,0 +1,16 @@
+{
+  "codename": "Be13",
+  "ttf_path": "/assets/Fonts/BebasNeuePro-Bold.ttf",
+  "bin_path": "/assets/Fonts/ui_font_Be13.bin",
+  "c_path": "/assets/Fonts/ui_font_Be13.c",
+  "cfg_path": "/assets/Fonts/ui_font_Be13.fcfg",
+  "size": 13,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

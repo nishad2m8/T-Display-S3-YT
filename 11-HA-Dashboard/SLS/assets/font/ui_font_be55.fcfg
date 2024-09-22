@@ -1,0 +1,16 @@
+{
+  "codename": "be55",
+  "ttf_path": "/assets/font/BebasNeue Bold.otf",
+  "bin_path": "/assets/font/ui_font_be55.bin",
+  "c_path": "/assets/font/ui_font_be55.c",
+  "cfg_path": "/assets/font/ui_font_be55.fcfg",
+  "size": 55,
+  "bpp": 8,
+  "letters": 3,
+  "ranges": [
+    "0x20-0xff"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

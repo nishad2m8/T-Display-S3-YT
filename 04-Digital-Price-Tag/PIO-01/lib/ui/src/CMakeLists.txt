@@ -1,0 +1,19 @@
+SET(SOURCES screens/ui_screen_wifi.c
+    screens/ui_screen_tag.c
+    ui.c
+    components/ui_comp_hook.c
+    ui_helpers.c
+    ui_events.c
+    images/ui_img_wifi_icon_wifi_1_png.c
+    images/ui_img_img_code_png.c
+    images/ui_img_wifi_icon_wifi_2_png.c
+    images/ui_img_wifi_icon_wifi_3_png.c
+    images/ui_img_wifi_icon_wifi_4_png.c
+    fonts/ui_font_g22.c
+    fonts/ui_font_g26.c
+    fonts/ui_font_g28.c
+    fonts/ui_font_g30.c
+    fonts/ui_font_g50.c
+    fonts/ui_font_g60.c)
+
+add_library(ui ${SOURCES})

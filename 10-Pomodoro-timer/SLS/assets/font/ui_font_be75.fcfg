@@ -1,0 +1,16 @@
+{
+  "codename": "be75",
+  "ttf_path": "/assets/font/BebasNeue Bold.otf",
+  "bin_path": "/assets/font/ui_font_be75.bin",
+  "c_path": "/assets/font/ui_font_be75.c",
+  "cfg_path": "/assets/font/ui_font_be75.fcfg",
+  "size": 75,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
