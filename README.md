@@ -1,5 +1,7 @@
 # T-Display-S3-YT
 
+💡 Join the [discussion](https://github.com/nishad2m8/T-Display-S3-YT/discussions) and share your thoughts and ideas!
+
 ---
 <p align="center">
   <span style="color: yellow;">If you like this, consider supporting it:</span>
