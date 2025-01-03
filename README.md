@@ -38,6 +38,7 @@ Project/
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
+| 16 |![alt text](<00-Assets/16-Add Custom Board Packages to Squareline Studio & Create Stunning UIs with AI.jpg>)|https://youtu.be/ECC2hs8-ZlY|
 | 15 |![alt text](<00-Assets/15-Easy Custom Fonts for Your Arduino Projects.jpg>)|https://youtu.be/f8gfOKYnp_0|
 | 14 | ![alt text](<00-Assets/14-No code UI for DHT22 on Lilygo T-Display S3 with Lopaka.jpg>)|https://youtu.be/R8-rubHpSm8|
 | 13 | ![alt text](<00-Assets/13-Attitude Indicator on T-Display S3 Simple Setup with SquareLine Studio.jpg>)|https://youtu.be/nNuizBO6Op8 |
