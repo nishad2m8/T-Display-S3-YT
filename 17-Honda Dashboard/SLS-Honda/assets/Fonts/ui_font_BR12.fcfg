@@ -1,0 +1,16 @@
+{
+  "codename": "BR12",
+  "ttf_path": "/assets/Fonts/BrunoAceSC-Regular.ttf",
+  "bin_path": "/assets/Fonts/ui_font_BR12.bin",
+  "c_path": "/assets/Fonts/ui_font_BR12.c",
+  "cfg_path": "/assets/Fonts/ui_font_BR12.fcfg",
+  "size": 12,
+  "bpp": 8,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

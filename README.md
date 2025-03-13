@@ -38,6 +38,7 @@ Project/
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
+| 17 |![alt text](<00-Assets/17-Honda-Style Auto Gauge HMI Design Figma, Squareline Studio & LVGL.jpg>)|https://youtu.be/8fMlC6O32Bc|
 | 16 |![alt text](<00-Assets/16-Add Custom Board Packages to Squareline Studio & Create Stunning UIs with AI.jpg>)|https://youtu.be/ECC2hs8-ZlY|
 | 15 |![alt text](<00-Assets/15-Easy Custom Fonts for Your Arduino Projects.jpg>)|https://youtu.be/f8gfOKYnp_0|
 | 14 | ![alt text](<00-Assets/14-No code UI for DHT22 on Lilygo T-Display S3 with Lopaka.jpg>)|https://youtu.be/R8-rubHpSm8|
