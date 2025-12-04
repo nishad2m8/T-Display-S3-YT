@@ -36,6 +36,14 @@ Project/
 ```
 
 
+>
+> To resolve potential build errors, modify your `platformio.ini` file and set:
+> ```ini
+> platform = espressif32 @ 6.5.0
+> ```
+
+
+
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
 | 17 |![alt text](<00-Assets/17-Honda-Style Auto Gauge HMI Design Figma, Squareline Studio & LVGL.jpg>)|https://youtu.be/8fMlC6O32Bc|
