@@ -17,5 +17,4 @@
 *.elf
 *.hex
 
-# Ignore credential file
-credential.h
+.vscode
