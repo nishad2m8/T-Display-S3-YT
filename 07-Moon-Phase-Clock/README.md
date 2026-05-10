@@ -1,7 +1,5 @@
 # Moon Phase Clock
 
-Create a file named `credential.h` in the `src/` folder with the following content:
-
 ```cpp
 // credential.h
 
@@ -9,11 +7,20 @@ Create a file named `credential.h` in the `src/` folder with the following conte
 #define CREDENTIAL_H
 
 // WiFi credentials
-const char* ssid = "YOUR_WIFI_SSID";      // Replace with your WiFi network name (SSID)
-const char* password = "YOUR_WIFI_PASSWORD";  // Replace with your WiFi password
+static const char* ssid     = "";
+static const char* password = "";
 
-// visualcrossing.com API Key for the weather service
-const char* apiKey = "YOUR_WEATHER_API_KEY";  // Replace with your visualcrossing API key for the weather service
+// visualcrossing.com API key
+static const char* apiKey   = "";
+
+// Location for visualcrossing query (max 4 decimals)
+static const float myLat = 00.0000; // 00.0000
+static const float myLon = 00.0000; // 00.0000
+
+// NTP timezone — set gmtOffset_sec to your UTC offset in seconds
+// e.g. UTC+3:  3 * 3600     UTC-5:  -5 * 3600
+static const long  gmtOffset_sec      = 3 * 3600;
+static const int   daylightOffset_sec = 0; // 3600 if your locale uses DST
 
 #endif
 
